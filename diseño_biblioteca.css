@@ -1,0 +1,14 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-position: center;
+}
+
+form{
+	
+	width: 360px;
+	margin: 100px auto;
+}
